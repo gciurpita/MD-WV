@@ -1,0 +1,210 @@
+    title  MD&WV Ry Ass
+
+    space  930 480 10
+
+    W    20
+    color black
+
+    bench           48     48,     456     48,     456    168,     372    168,     204     96,      99     96,      99    141,     204    141,     358    219,     204    309,      99    309,      99    355,     204    355,     423    240,     502    240,     515    241,     526    246,     536    254,     544    264,     549    275,     550    288,     549    300,     544    312,     536    321,     526    329,     515    334,     502    336,     427    336,     427    384,     502    384,     669    301,     697    249,     697    213,     661    156,     565    156,     565    192,     540    192,     540     48,     870     48,     885     50,     900     55,     912     65,     921     78,     927     92,     930    108,     927    123,     921    138,     912    150,     900    159,     885    165,     870    168,     813    168,     813    432,      48    432,      48    264,     111    264,     111    204,      48    204,      48     48,
+
+    text 813 432 150  67x36'
+    Font 150
+
+    # ----------------------------------------------------------
+    # B&O
+
+    color blue
+    pos   810  316  90
+    lbl   A
+    str   64
+    curve 48 90
+
+    str   661
+    curve 48 90
+
+    # sandpatch westbound
+    lbl Sandpatch
+
+    str   40
+    curve 60 90
+    str   100
+    curve 50 -170
+
+    lbl Salisburry Viaduct
+    str   130
+    curve 48  80
+    str   10
+
+    lbl   Garret
+    color green
+    curve 48  90
+
+    str   296
+    curve 54  205
+
+    str   220
+    curve 60  -25
+
+    str   46
+    curve 46  -90
+
+    # garrett eastbound
+    color blue
+    str   6
+    curve 46  -80
+
+    lbl   B
+    str   130
+    curve 54 170
+
+    str   102
+    curve 56 -90
+
+    str   40
+    curve 44 -90
+
+    str   660
+    curve 44 -90
+
+    str   120
+
+    lbl   C
+    curve 60 -20
+
+    str    76
+    curve 80 110
+
+    str   20
+    curve 44 180
+
+    lbl   D
+    str   40
+    color green
+    str   200
+    curve 48 210
+
+    str   158
+    curve 48 -30
+
+    color blue
+
+    str   54
+    curve 40 -180
+
+    lbl   E
+    str   18
+    curve 76 -110
+
+    str   76
+    curve 60 20
+
+    str   60
+
+    # ----------------------------------------------------------
+    # western maryland
+
+    color red
+    pos   810  52 
+    lbl   P
+
+    str   60
+    curve 54 180
+
+    str   50
+    color orange
+    curve 48 -100
+
+    str   130
+    curve 60  100
+
+    lbl   Q
+    str   80
+    curve 44  150
+
+    str   60
+    curve 50  -50
+
+    str   74
+    curve 50  80
+
+    str   50
+    color red
+    str   50
+    curve 48  -180
+
+    str   112
+    lbl   R
+    curve 54  -90
+
+    str   150
+    curve 48  60
+
+    lbl   S
+    str   180
+    curve 60  30
+
+    str   60
+    curve 37  180
+
+    str   60
+    curve 40  -180
+
+    str   60
+    curve 48  -30
+
+    lbl   T
+    str   240
+    curve 48  30
+
+    str   60
+    curve 44  170
+
+    lbl   U
+    str   100
+    curve 48  -160
+
+    str   90
+    curve 48   170
+    lbl   V
+
+    str   180
+    curve 56   -10
+    str   70
+    curve 42   215
+
+    lbl   W
+
+    str   134
+    curve 56   -25
+
+    str   100
+    curve 44   -170
+
+    str   90
+    curve 52   160
+
+    str   100
+    curve 40  -170
+
+    str   54
+    curve 56  -30
+
+    str   240
+    curve 52   30
+
+    str   56
+    curve 45   180
+
+    str   60
+    curve 32   -180
+
+    str   60
+    curve 56   -30
+
+    str   180
+    curve 44   -60
+
+    str   150
+    curve 58    90
+
+    str   50
