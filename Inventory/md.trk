@@ -8,11 +8,19 @@
     bench           48     48,     456     48,     456    168,     372    168,     204     96,      99     96,      99    141,     204    141,     358    219,     204    309,      99    309,      99    355,     204    355,     423    240,     502    240,     515    241,     526    246,     536    254,     544    264,     549    275,     550    288,     549    300,     544    312,     536    321,     526    329,     515    334,     502    336,     427    336,     427    384,     502    384,     669    301,     697    249,     697    213,     661    156,     565    156,     565    192,     540    192,     540     48,     870     48,     885     50,     900     55,     912     65,     921     78,     927     92,     930    108,     927    123,     921    138,     912    150,     900    159,     885    165,     870    168,     813    168,     813    432,      48    432,      48    264,     111    264,     111    204,      48    204,      48     48,
 
     Font 150
-    text 813 432 150  67x36'
+    text 770 435 120  67'x36'
+    text 380 450 250  MD &amp; WV Railway
     text 670 370 150  Cumberland
-    text 400 280 150  Helmstetters Curve
-    text 580 100 150  Engine Terminal
-    text 280 220 150  Myersdale
+    text 740 210 150  Yard
+    text 430 300 150  Helmstetters
+    text 450 280 150  Curve
+    text 560 110 150  Engine
+    text 550  90 150  Terminal
+    text 130 405 150  Hyndman
+    text 140 295 150  Keystone Viaduct
+    text 260 220 150  Myersdale
+    text  90 185 150  Salisbury Viaduct
+    text 300 120 150  Connelsville
 
     # ----------------------------------------------------------
     # B&O
@@ -23,9 +31,7 @@
     str   64
     curve 48 90
 
-    str   601
-    lbl Hyndman
-    str   61
+    str   661
     curve 48 90
 
     # sandpatch westbound
@@ -34,12 +40,11 @@
     str   40
     curve 60 90
     str   100
-    curve 50 -170
+    curve 56 -185
 
-    lbl Salisburry Viaduct
-    str   130
-    curve 48  80
-    str   10
+    str   100
+    curve 48  95
+    str   30
 
     lbl   Garret
     color green
@@ -56,12 +61,11 @@
 
     # garrett eastbound
     color blue
-    str   6
-    curve 46  -80
+    str   26
+    curve 46  -95
 
-    lbl   B
-    str   130
-    curve 54 170
+    str   100
+    curve 60 185
 
     str   102
     curve 56 -90
@@ -124,16 +128,13 @@
     curve 60  100
 
     lbl   Q
-    str   80
-    curve 44  150
+    curve 60  120
+    str   106
 
-    str   60
-    curve 50  -50
+    str   61
+    curve 50  60
 
-    str   74
-    curve 50  80
-
-    str   50
+    str   10
     color red
     str   50
     curve 48  -180
@@ -178,7 +179,7 @@
     str   70
     curve 42   215
 
-    lbl   Connelsville
+    lbl   W
 
     str   134
     curve 56   -25
