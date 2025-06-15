@@ -554,13 +554,12 @@ filename != FILENAME {
 
 
 /text/  {
-    font = Font
     if (0 < $4 && $4 < 9999)  {
         font = $4
         anno($2, $3, substr($0, index($0, $5)), font)
     }
     else
-        anno($2, $3, substr($0, index($0, $4)), font)
+        anno($2, $3, substr($0, index($0, $4)), Font)
     next
 }
 
