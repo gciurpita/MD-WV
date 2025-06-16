@@ -90,11 +90,11 @@
     lbl   D
     str   40
     color green
-    str   200
-    curve 48 210
+    str   240
+    curve 48 204
 
-    str   158
-    curve 48 -30
+    str   204
+    curve 48 -24
 
     color blue
 
