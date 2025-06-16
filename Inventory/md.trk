@@ -193,13 +193,14 @@
     str   100
     curve 40  -170
 
-    str   54
+    str   50
+    lbl   X
     curve 56  -30
 
-    str   240
+    str   242
     curve 52   30
 
-    str   56
+    str   58
     curve 45   180
 
     str   60
@@ -211,7 +212,7 @@
     str   180
     curve 44   -60
 
-    str   150
+    str   151
     curve 58    90
 
     str   50
