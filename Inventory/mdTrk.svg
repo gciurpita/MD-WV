@@ -7,8 +7,12 @@
 <path d="M480 4320 L4560 4320 L4560 3120 L3720 3120 L2040 3840 L990 3840 L990 3390 L2040 3390 L3580 2610 L2040 1710 L990 1710 L990 1250 L2040 1250 L4230 2400 L5020 2400 L5150 2390 L5260 2340 L5360 2260 L5440 2160 L5490 2050 L5500 1920 L5490 1800 L5440 1680 L5360 1590 L5260 1510 L5150 1460 L5020 1440 L4270 1440 L4270 960 L5020 960 L6690 1790 L6970 2310 L6970 2670 L6610 3240 L5650 3240 L5650 2880 L5400 2880 L5400 4320 L8700 4320 L8850 4300 L9000 4250 L9120 4150 L9210 4020 L9270 3880 L9300 3720 L9270 3570 L9210 3420 L9120 3300 L9000 3210 L8850 3150 L8700 3120 L8130 3120 L8130 480 L480 480 L480 2160 L1110 2160 L1110 2760 L480 2760 L480 4320" stroke="black" stroke-width="20" fill="none" />
   <text x="7700" y="450" font-family="Verdana" font-size="120">67'x36'</text>
   <text x="3800" y="300" font-family="Verdana" font-size="250">MD &amp; WV Railway</text>
-  <text x="6700" y="1100" font-family="Verdana" font-size="150">Cumberland</text>
+  <text x="7000" y="1800" font-family="Verdana" font-size="150">Cumberland</text>
+  <text x="7400" y="900" font-family="Verdana" font-size="120">Freight</text>
+  <text x="7400" y="1000" font-family="Verdana" font-size="120">House</text>
   <text x="7400" y="2700" font-family="Verdana" font-size="150">Yard</text>
+  <text x="8700" y="3750" font-family="Verdana" font-size="120">Del</text>
+  <text x="8700" y="3850" font-family="Verdana" font-size="120">Fest</text>
   <text x="4300" y="1800" font-family="Verdana" font-size="150">Helmstetters</text>
   <text x="4500" y="2000" font-family="Verdana" font-size="150">Curve</text>
   <text x="5600" y="3700" font-family="Verdana" font-size="150">Engine</text>
@@ -17,9 +21,7 @@
   <text x="1400" y="1850" font-family="Verdana" font-size="150">Keystone Viaduct</text>
   <text x="2600" y="2600" font-family="Verdana" font-size="150">Myersdale</text>
   <text x="900" y="2950" font-family="Verdana" font-size="150">Salisbury Viaduct</text>
-  <text x="3000" y="3600" font-family="Verdana" font-size="150">Connelsville</text>
-# lbl: A, xPos 810.00, yPos 316.00, dir 90.00
-  <text x="8100" y="1640" font-family="Verdana" font-size="150">A</text>
+  <text x="3000" y="3600" font-family="Verdana" font-size="150">Connellsville</text>
 
 # str: xPos    810, yPos 316, dir 90, len 64.00
   <line   x1="8100" y1="1640" x2="8100" y2="1000" style="stroke:blue;stroke-width:20" />
@@ -36,8 +38,6 @@
 #   col blue
  <!-- arc (101, 380) a0 90, a1 180, rad 48.00 -->
  <path d="M1010 519 L968 521 L926 527 L885 536 L845 548 L807 564 L770 584 L734 606 L701 632 L670 660 L642 691 L616 724 L594 759 L574 797 L558 835 L546 875 L537 916 L531 958 L530 999 L530 999 " stroke="blue" stroke-width="20" fill="none" />"
-# lbl: Sandpatch, xPos  53.00, yPos 380.00, dir 270.00
-  <text x="530" y="999" font-family="Verdana" font-size="150">Sandpatch</text>
 
 # str: xPos     53, yPos 380, dir 270, len 40.00
   <line   x1="530" y1="999" x2="529" y2="1399" style="stroke:blue;stroke-width:20" />
@@ -65,8 +65,6 @@
 
 # str: xPos     56, yPos 129, dir -90, len 30.00
   <line   x1="563" y1="3508" x2="563" y2="3808" style="stroke:blue;stroke-width:20" />
-# lbl: Garret, xPos  56.32, yPos 99.11, dir -90.00
-  <text x="563" y="3808" font-family="Verdana" font-size="150">Garret</text>
 
 # curve: rad 0.0, dAng 90.0, color green
 #   col green
@@ -139,8 +137,6 @@
 
 # str: xPos    805, yPos 380, dir -90, len 120.00
   <line   x1="8056" y1="996" x2="8056" y2="2196" style="stroke:blue;stroke-width:20" />
-# lbl: C, xPos 805.61, yPos 260.34, dir -90.00
-  <text x="8056" y="2196" font-family="Verdana" font-size="150">C</text>
 
 # curve: rad 0.0, dAng -20.0, color blue
 #   col blue
@@ -162,8 +158,6 @@
 #   col blue
  <!-- arc (871, 105) a0 -90, a1 90, rad 44.00 -->
  <path d="M8711 4189 L8750 4187 L8788 4182 L8825 4174 L8862 4163 L8897 4148 L8931 4130 L8964 4110 L8994 4086 L9022 4060 L9048 4032 L9072 4002 L9092 3969 L9110 3935 L9125 3900 L9136 3863 L9145 3826 L9150 3787 L9151 3749 L9150 3711 L9145 3673 L9136 3635 L9125 3599 L9110 3563 L9092 3529 L9072 3497 L9048 3466 L9022 3438 L8994 3412 L8964 3389 L8931 3368 L8897 3350 L8862 3336 L8825 3324 L8788 3316 L8750 3311 L8711 3309 L8711 3309 " stroke="blue" stroke-width="20" fill="none" />"
-# lbl: D, xPos 871.17, yPos 149.04, dir 180.00
-  <text x="8711" y="3309" font-family="Verdana" font-size="150">D</text>
 
 # str: xPos    871, yPos 149, dir 180, len 40.00
   <line   x1="8711" y1="3309" x2="8311" y2="3309" style="stroke:blue;stroke-width:20" />
@@ -191,8 +185,6 @@
 #   col blue
  <!-- arc (870, 104) a0 90, a1 -90, rad 40.00 -->
  <path d="M8705 4156 L8740 4155 L8775 4150 L8809 4143 L8842 4132 L8874 4119 L8905 4103 L8935 4084 L8962 4063 L8988 4039 L9012 4014 L9033 3986 L9052 3956 L9068 3925 L9081 3893 L9092 3860 L9099 3826 L9104 3791 L9105 3756 L9104 3722 L9099 3687 L9092 3653 L9081 3620 L9068 3587 L9052 3556 L9033 3527 L9012 3499 L8988 3474 L8962 3450 L8935 3429 L8905 3410 L8874 3394 L8842 3381 L8809 3370 L8775 3362 L8740 3358 L8705 3356 L8705 3356 " stroke="blue" stroke-width="20" fill="none" />"
-# lbl: E, xPos 870.58, yPos 64.31, dir -180.00
-  <text x="8705" y="4156" font-family="Verdana" font-size="150">E</text>
 
 # str: xPos    870, yPos 64, dir -180, len 18.00
   <line   x1="8705" y1="4156" x2="8525" y2="4156" style="stroke:blue;stroke-width:20" />
@@ -212,8 +204,6 @@
 
 # str: xPos    810, yPos 258, dir -270, len 60.00
   <line   x1="8107" y1="2217" x2="8107" y2="1617" style="stroke:blue;stroke-width:20" />
-# lbl: P, xPos 810.00, yPos 52.00, dir 0.00
-  <text x="8100" y="4280" font-family="Verdana" font-size="150">P</text>
 
 # str: xPos    810, yPos 52, dir 0, len 60.00
   <line   x1="8100" y1="4280" x2="8700" y2="4280" style="stroke:red;stroke-width:20" />
@@ -238,8 +228,6 @@
 #   col orange
  <!-- arc (736, 354) a0 -10, a1 90, rad 60.00 -->
  <path d="M7953 1356 L7959 1304 L7962 1252 L7959 1199 L7953 1148 L7941 1096 L7925 1046 L7905 998 L7881 952 L7853 908 L7821 866 L7786 827 L7747 792 L7706 760 L7662 732 L7615 708 L7567 688 L7517 672 L7466 661 L7414 654 L7362 652 L7362 652 " stroke="orange" stroke-width="20" fill="none" />"
-# lbl: Q, xPos 736.22, yPos 414.78, dir 180.00
-  <text x="7362" y="652" font-family="Verdana" font-size="150">Q</text>
 
 # curve: rad 0.0, dAng 120.0, color orange
 #   col orange
@@ -270,8 +258,6 @@
 
 # str: xPos    871, yPos 59, dir -180, len 112.00
   <line   x1="8710" y1="4208" x2="7590" y2="4208" style="stroke:red;stroke-width:20" />
-# lbl: R, xPos 759.05, yPos 59.15, dir -180.00
-  <text x="7590" y="4208" font-family="Verdana" font-size="150">R</text>
 
 # curve: rad 0.0, dAng -90.0, color red
 #   col red
@@ -285,8 +271,6 @@
 #   col red
  <!-- arc (657, 263) a0 -360, a1 -300, rad 48.00 -->
  <path d="M7050 2168 L7048 2126 L7043 2085 L7034 2044 L7021 2004 L7005 1965 L6986 1928 L6963 1893 L6938 1859 L6909 1829 L6879 1800 L6845 1775 L6810 1752 L6810 1752 " stroke="red" stroke-width="20" fill="none" />"
-# lbl: S, xPos 681.05, yPos 304.72, dir -210.00
-  <text x="6810" y="1752" font-family="Verdana" font-size="150">S</text>
 
 # str: xPos    681, yPos 304, dir -210, len 180.00
   <line   x1="6810" y1="1752" x2="5251" y2="852" style="stroke:red;stroke-width:20" />
@@ -319,8 +303,6 @@
 #   col red
  <!-- arc (435, 296) a0 -90, a1 -120, rad 48.00 -->
  <path d="M4111 2248 L4148 2267 L4187 2283 L4227 2296 L4268 2305 L4309 2310 L4351 2312 L4351 2312 " stroke="red" stroke-width="20" fill="none" />"
-# lbl: T, xPos 411.17, yPos 255.19, dir -210.00
-  <text x="4111" y="2248" font-family="Verdana" font-size="150">T</text>
 
 # str: xPos    411, yPos 255, dir -210, len 240.00
   <line   x1="4111" y1="2248" x2="2033" y2="1048" style="stroke:red;stroke-width:20" />
@@ -337,8 +319,6 @@
 #   col red
  <!-- arc (119, 337) a0 -270, a1 -100, rad 44.00 -->
  <path d="M1193 983 L1154 985 L1116 990 L1079 998 L1042 1010 L1007 1025 L973 1042 L940 1063 L910 1086 L882 1112 L856 1140 L832 1171 L812 1203 L794 1237 L779 1273 L768 1309 L759 1347 L754 1385 L753 1423 L754 1462 L759 1500 L768 1537 L779 1574 L794 1609 L812 1643 L832 1676 L856 1706 L882 1734 L910 1760 L940 1784 L973 1804 L1007 1822 L1042 1837 L1079 1848 L1116 1857 L1116 1857 " stroke="red" stroke-width="20" fill="none" />"
-# lbl: U, xPos 111.68, yPos 294.29, dir -10.00
-  <text x="1116" y="1857" font-family="Verdana" font-size="150">U</text>
 
 # str: xPos    111, yPos 294, dir -10, len 100.00
   <line   x1="1116" y1="1857" x2="2101" y2="2030" style="stroke:red;stroke-width:20" />
@@ -355,8 +335,6 @@
 #   col red
  <!-- arc (129, 119) a0 -260, a1 -90, rad 48.00 -->
  <path d="M1215 3132 L1174 3141 L1134 3154 L1095 3170 L1058 3189 L1023 3211 L990 3237 L959 3265 L930 3296 L905 3329 L882 3365 L863 3402 L847 3440 L835 3480 L825 3521 L820 3563 L818 3605 L820 3646 L825 3688 L835 3729 L847 3769 L863 3808 L882 3845 L905 3880 L930 3913 L959 3944 L990 3972 L1023 3998 L1058 4020 L1095 4040 L1134 4056 L1174 4068 L1215 4077 L1256 4083 L1298 4085 L1298 4085 " stroke="red" stroke-width="20" fill="none" />"
-# lbl: V, xPos 129.87, yPos 71.49, dir 0.00
-  <text x="1298" y="4085" font-family="Verdana" font-size="150">V</text>
 
 # str: xPos    129, yPos 71, dir 0, len 180.00
   <line   x1="1298" y1="4085" x2="3098" y2="4085" style="stroke:red;stroke-width:20" />
@@ -373,8 +351,6 @@
 #   col red
  <!-- arc (395, 99) a0 -100, a1 115, rad 42.00 -->
  <path d="M3885 4215 L3921 4219 L3958 4221 L3994 4219 L4031 4215 L4066 4207 L4101 4196 L4135 4182 L4168 4165 L4199 4145 L4228 4123 L4255 4098 L4279 4071 L4302 4042 L4321 4011 L4338 3979 L4352 3945 L4363 3910 L4371 3874 L4376 3838 L4378 3801 L4376 3764 L4371 3728 L4363 3692 L4352 3657 L4338 3624 L4321 3591 L4302 3560 L4279 3531 L4255 3504 L4228 3479 L4199 3457 L4168 3437 L4135 3420 L4101 3406 L4066 3395 L4031 3387 L3994 3383 L3958 3381 L3921 3383 L3885 3387 L3849 3395 L3814 3406 L3780 3420 L3780 3420 " stroke="red" stroke-width="20" fill="none" />"
-# lbl: W, xPos 378.07, yPos 137.91, dir 205.00
-  <text x="3780" y="3420" font-family="Verdana" font-size="150">W</text>
 
 # str: xPos    378, yPos 137, dir 205, len 134.00
   <line   x1="3780" y1="3420" x2="2566" y2="3987" style="stroke:red;stroke-width:20" />
@@ -410,8 +386,6 @@
 
 # str: xPos    122, yPos 378, dir 0, len 50.00
   <line   x1="1224" y1="1018" x2="1724" y2="1018" style="stroke:red;stroke-width:20" />
-# lbl: X, xPos 172.42, yPos 378.17, dir 0.00
-  <text x="1724" y="1018" font-family="Verdana" font-size="150">X</text>
 
 # curve: rad 0.0, dAng -30.0, color red
 #   col red

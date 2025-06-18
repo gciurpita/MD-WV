@@ -10,8 +10,13 @@
     Font 150
     text 770 435 120  67'x36'
     text 380 450 250  MD &amp; WV Railway
-    text 670 370 150  Cumberland
+    text 700 300 150  Cumberland
+    text 740 390 120  Freight
+    text 740 380 120  House
     text 740 210 150  Yard
+    text 870 105 120  Del
+    text 870  95 120  Fest
+
     text 430 300 150  Helmstetters
     text 450 280 150  Curve
     text 560 110 150  Engine
@@ -20,14 +25,14 @@
     text 140 295 150  Keystone Viaduct
     text 260 220 150  Myersdale
     text  90 185 150  Salisbury Viaduct
-    text 300 120 150  Connelsville
+    text 300 120 150  Connellsville
 
     # ----------------------------------------------------------
     # B&O
 
     color blue
     pos   810  316  90
-    lbl   A
+  # lbl   A
     str   64
     curve 48 90
 
@@ -35,7 +40,7 @@
     curve 48 90
 
     # sandpatch westbound
-    lbl Sandpatch
+  # lbl Sandpatch
 
     str   40
     curve 60 90
@@ -46,7 +51,7 @@
     curve 48  95
     str   30
 
-    lbl   Garret
+  # lbl   Garret
     color green
     curve 48  90
 
@@ -78,7 +83,7 @@
 
     str   120
 
-    lbl   C
+  # lbl   C
     curve 60 -20
 
     str    76
@@ -87,7 +92,7 @@
     str   20
     curve 44 180
 
-    lbl   D
+  # lbl   D
     str   40
     color green
     str   240
@@ -101,7 +106,7 @@
     str   54
     curve 40 -180
 
-    lbl   E
+  # lbl   E
     str   18
     curve 76 -110
 
@@ -109,13 +114,14 @@
     curve 60 20
 
     str   60
+  # dist
 
     # ----------------------------------------------------------
     # western maryland
 
     color red
     pos   810  52 
-    lbl   P
+  # lbl   P
 
     str   60
     curve 54 180
@@ -127,7 +133,7 @@
     str   130
     curve 60  100
 
-    lbl   Q
+  # lbl   Q
     curve 60  120
     str   106
 
@@ -140,13 +146,13 @@
     curve 48  -180
 
     str   112
-    lbl   R
+  # lbl   R
     curve 54  -90
 
     str   150
     curve 48  60
 
-    lbl   S
+  # lbl   S
     str   180
     curve 60  30
 
@@ -159,27 +165,27 @@
     str   60
     curve 48  -30
 
-    lbl   T
+  # lbl   T
     str   240
     curve 48  30
 
     str   60
     curve 44  170
 
-    lbl   U
+  # lbl   U
     str   100
     curve 48  -160
 
     str   90
     curve 48   170
-    lbl   V
+  # lbl   V
 
     str   180
     curve 56   -10
     str   70
     curve 42   215
 
-    lbl   W
+  # lbl   W
 
     str   134
     curve 56   -25
@@ -194,7 +200,7 @@
     curve 40  -170
 
     str   50
-    lbl   X
+  # lbl   X
     curve 56  -30
 
     str   242
@@ -216,3 +222,4 @@
     curve 58    90
 
     str   50
+  # dist

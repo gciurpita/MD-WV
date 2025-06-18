@@ -1,4 +1,4 @@
-# yet another track drawing too
+# yet another track drawing tool
 # svg drawing routines
 
 awk '
@@ -581,6 +581,8 @@ filename != FILENAME {
     }
     else
         curve(rad, dAng, ColTrk)
+
+    next
 }
 
 # ------------------------------------------------
@@ -625,6 +627,12 @@ function curve (rad, dAng, color) {
     c    = cos(a1 * Pi / 180);   s    = sin(a1 * Pi / 180)
     xPos = xC + c*rad;           yPos = yC + s*rad
 
+    dist += Pi * rad * abs(dAng) /180
+}
+
+# --------------------------------------
+/dist/ {
+    anno(xPos, yPos, sprintf("dist= %.1f", dist/12))
     next
 }
 
@@ -650,6 +658,7 @@ function curve (rad, dAng, color) {
     printf "# lbl: %s, xPos %6.2f, yPos %.2f, dir %.2f\n", $2, xPos, yPos, dir
     lblX [$2] = xPos;  lblY [$2] = yPos; lblDir [$2] = dir
     anno(xPos, yPos, $2)
+
     next
 }
 
@@ -683,6 +692,7 @@ function curve (rad, dAng, color) {
 # --------------------------------------
 /pos/   { xPos = $2; yPos = $3; dir = $4;
   # mark(xPos, yPos, 1, 1, "red")
+    dist = 0
     next
 }
 
@@ -750,6 +760,8 @@ function str (len, col) {
         lineDbl(x0, y0, xPos, yPos, DD, Col2, Col1)
     else
         lineDbl(x0, y0, xPos, yPos, DD, Col1, Col2)
+
+    dist += len
 }
 
 # --------------------------------------
