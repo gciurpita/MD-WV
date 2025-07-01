@@ -88,11 +88,6 @@ match(filename, "to.txt")  {
 }
 
 # ------------------------------------------------
-/operation accepted/ {
-    next
-}
-
-# ------------------------------------------------
 # DS64 28 Query OpSw1.
 # LONG_ACK: OpSwitch report - opSwitch is 1 (Closed).
 #
@@ -133,5 +128,5 @@ match(filename, "to.txt")  {
 
 # ------------------------------------------------
 NF {
-    print
+  # print
 }' $*
