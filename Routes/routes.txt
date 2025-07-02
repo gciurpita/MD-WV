@@ -1,4 +1,68 @@
 
+       0   0 0000    1   T        Logs/ds_21_1_8.log
+       0   0 1136  183   T        Logs/ds_21_1_8.log
+    ds64 idx bits  TO# T/C
+      21  36 3017   24   C        Logs/ds_21_1_8.log
+      21  36 3136  183   C        Logs/ds_21_1_8.log
+
+    ds64 idx bits  TO# T/C
+      22  87 1044   69   T        Logs/ds_22_1_8.log
+      22  87 314c  205   C        Logs/ds_22_1_8.log
+      22  41 3150  209   C        Logs/ds_22_1_8.log
+      22  41 3151  210   C        Logs/ds_22_1_8.log
+      22  42 1152  211   T        Logs/ds_22_1_8.log
+      22  42 115c  221   T        Logs/ds_22_1_8.log
+      22  44 3044   69   C        Logs/ds_22_1_8.log
+      22  44 3152  211   C        Logs/ds_22_1_8.log
+      22  45 315c  221   C        Logs/ds_22_1_8.log
+      22  45 315e  223   C        Logs/ds_22_1_8.log
+
+    ds64 idx bits  TO# T/C
+      23  16 100d   14   T        Logs/ds_23_1_8.log
+      23  16 114c  205   T        Logs/ds_23_1_8.log
+      23  17 114d  206   T        Logs/ds_23_1_8.log
+      23  17 114e  207   T        Logs/ds_23_1_8.log
+      23  36 301f   32   C        Logs/ds_23_1_8.log
+      23  36 3152  211   C        Logs/ds_23_1_8.log
+      23  40 1020   33   T        Logs/ds_23_1_8.log
+      23  40 115c  221   T        Logs/ds_23_1_8.log
+      23  44 3020   33   C        Logs/ds_23_1_8.log
+      23  44 315c  221   C        Logs/ds_23_1_8.log
+
+      23  47 e000    1   C        Logs/ds_24_1_8.log
+      23  47 f140  193   C        Logs/ds_24_1_8.log
+    ds64 idx bits  TO# T/C
+      24  37 114d  206   T        Logs/ds_24_1_8.log
+      24  37 314e  207   C        Logs/ds_24_1_8.log
+      24  40 101e   31   T        Logs/ds_24_1_8.log
+      24  40 114a  203   T        Logs/ds_24_1_8.log
+      24  44 301e   31   C        Logs/ds_24_1_8.log
+      24  44 314a  203   C        Logs/ds_24_1_8.log
+
+    ds64 idx bits  TO# T/C
+      25  40 1006    7   T        Logs/ds_25_1_8.log
+      25  40 1153  212   T        Logs/ds_25_1_8.log
+      25  41 3154  213   C        Logs/ds_25_1_8.log
+      25  41 3155  214   C        Logs/ds_25_1_8.log
+      25  44 1007    8   T        Logs/ds_25_1_8.log
+      25  44 3153  212   C        Logs/ds_25_1_8.log
+      25  45 1156  215   T        Logs/ds_25_1_8.log
+      25  45 1157  216   T        Logs/ds_25_1_8.log
+
+      25  47 f06a  107   C        Logs/ds_26_1_8.log
+      25  47 1106c  109   T        Logs/ds_26_1_8.log
+    ds64 idx bits  TO# T/C
+      26  42 306d  110   C        Logs/ds_26_1_8.log
+      26  42 306e  111   C        Logs/ds_26_1_8.log
+      26  43 306f  112   C        Logs/ds_26_1_8.log
+      26  43 3070  113   C        Logs/ds_26_1_8.log
+      26  44 3007    8   C        Logs/ds_26_1_8.log
+      26  44 106b  108   T        Logs/ds_26_1_8.log
+      26  45 306c  109   C        Logs/ds_26_1_8.log
+      26  45 306d  110   C        Logs/ds_26_1_8.log
+      26  46 306e  111   C        Logs/ds_26_1_8.log
+      26  46 306f  112   C        Logs/ds_26_1_8.log
+
     ds64 idx bits  TO# T/C
       27  16 3008    9   C        Logs/ds_27_1.log
       27  16 106c  109   T        Logs/ds_27_1.log
@@ -76,14 +140,14 @@
       28  44 3071  114   C        Logs/ds_28_8.log
 
     ds64 idx bits  TO# T/C
-      29  16 3704  133   C  cont  Logs/ds_29.log
-      29  16 306a  107   C        Logs/ds_29.log
-      29  17 306b  108   C        Logs/ds_29.log
-      29  17 306c  109   C        Logs/ds_29.log
-      29  18 306d  110   C        Logs/ds_29.log
-      29  18 306e  111   C        Logs/ds_29.log
-      29  19 306f  112   C        Logs/ds_29.log
-      29  19 370d  142   C  cont  Logs/ds_29.log
+      29  16 3704  133   C  cont  Logs/ds_29_1.log
+      29  16 306a  107   C        Logs/ds_29_1.log
+      29  17 306b  108   C        Logs/ds_29_1.log
+      29  17 306c  109   C        Logs/ds_29_1.log
+      29  18 306d  110   C        Logs/ds_29_1.log
+      29  18 306e  111   C        Logs/ds_29_1.log
+      29  19 306f  112   C        Logs/ds_29_1.log
+      29  19 370d  142   C  cont  Logs/ds_29_1.log
 
       29  20 3705  134   C  cont  Logs/ds_29_2.log
       29  20 307e  127   C        Logs/ds_29_2.log
@@ -117,3 +181,46 @@
       29  37 3237   56   C        Logs/ds_29_6.log
 
 
+
+      29  47 f200    1   C        Logs/ds_30_1_8.log
+      29  47 11241   66   T        Logs/ds_30_1_8.log
+    ds64 idx bits  TO# T/C
+      30  44 3711  146   C  cont  Logs/ds_30_1_8.log
+      30  44 123b   60   T        Logs/ds_30_1_8.log
+      30  45 3241   66   C        Logs/ds_30_1_8.log
+      30  45 1245   70   T        Logs/ds_30_1_8.log
+      30  46 324c   77   C        Logs/ds_30_1_8.log
+      30  46 324d   78   C        Logs/ds_30_1_8.log
+
+    ds64 idx bits  TO# T/C
+      31  40 3716  151   C  cont  Logs/ds_31_1_8.log
+      31  40 123b   60   T        Logs/ds_31_1_8.log
+      31  41 3241   66   C        Logs/ds_31_1_8.log
+      31  41 1245   70   T        Logs/ds_31_1_8.log
+      31  44 3717  152   C  cont  Logs/ds_31_1_8.log
+      31  44 1230   49   T        Logs/ds_31_1_8.log
+      31  45 3234   53   C        Logs/ds_31_1_8.log
+      31  45 1237   56   T        Logs/ds_31_1_8.log
+
+    ds64 idx bits  TO# T/C
+      32  36 3019   26   C        Logs/ds_32_1_8.log
+      32  36 3102  131   C        Logs/ds_32_1_8.log
+      32  37 310f  144   C        Logs/ds_32_1_8.log
+      32  37 3102  131   C        Logs/ds_32_1_8.log
+
+
+    ds64 idx bits  TO# T/C
+      34  40 1026   39   T        Logs/ds_34_1_8.log
+      34  40 1174  245   T        Logs/ds_34_1_8.log
+      34  44 3026   39   C        Logs/ds_34_1_8.log
+      34  44 3174  245   C        Logs/ds_34_1_8.log
+
+    ds64 idx bits  TO# T/C
+      35  87 1058   89   T        Logs/ds_35_1_8.log
+      35  87 110d  142   T        Logs/ds_35_1_8.log
+      35  41 1111  146   T        Logs/ds_35_1_8.log
+      35  41 3112  147   C        Logs/ds_35_1_8.log
+      35  44 3058   89   C        Logs/ds_35_1_8.log
+      35  44 310d  142   C        Logs/ds_35_1_8.log
+      35  45 3111  146   C        Logs/ds_35_1_8.log
+      35  45 1112  147   T        Logs/ds_35_1_8.log
