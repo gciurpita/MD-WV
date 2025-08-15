@@ -1,0 +1,241 @@
+Buggy's stuff, see Kim Bradley
+
+  ?                TROLLEY              ? Desire-St  not-powered  ?
+  AHM              RS-2                BN 4052    nc  DC
+  Athern           GP-35      CHESSIR/C&O 3538    Kadee  DC
+  Athern           SD-40               SP 7347    Kadee  DCC&sound
+  Athern           GP35               SOO 729     Kadee  DC
+  Athern           F-9                SOO 2203    Kadee  DC
+  Athern           GP-38               NS 5246    k/h  DC
+  Athern           GP-9               SOO 1212    Kadee  DC
+  Athern           U-BOAT              SF 6308    Kadee  DC
+  Athern           U-BOAT     CHESSIR/C&O 8712    hook  DC
+  Atlas            RS-3       COTTON-BELT 352     McHenry  DC
+  Atlas            U-BOAT        SEABOARD 2751    Kadee  DCC
+  Atlas/Kato       RS-3                WM 187     Kadee  DCC
+  Life-Like        GP-7                NP 402     Kadee  DC
+  Bachmann         0-6-0T        SOUTHERN 1550    McHenry  DC
+  Bachmann         S-4                 WM 146     Kadee  DCC&sound
+  Bachmann         GP-35               WM 3579    Kadee  DCC
+  Bachmann         GP-35               SF 2949    nc  DC
+  Bachmann         GP-40               SF 3507    McHenry  DCC
+  Bachmann         GE-44T              WM 75      Kadee  DC
+  Bachmann         GE-44T              WM 76      Kadee  DC
+  Bachmann         GE-44T             B&O 19      Kadee  DC
+  Bachmann         GE-44T             B&O 20      Kadee  DC
+------------------------------------------------------------
+A
+                            B&O    9182  Athern        Kadee     plastic       
+F
+                           ATSF  297012  Athern        Kadee     steel     rail load
+                            B&O      99  Bachmann      McHenry   plastic   30' old time
+                            BPL      63  Athern        none      plastic   missing brake wheel
+                          D&RGW   22317  Athern        Kadee     steel         
+                           GM&O   75002  Athern        Kadee     plastic   missing brake wheel 
+                             GN   42953  Mantua        Kadee     steel      54'
+                             GN   42764  Bachmann      McHenry   plastic   6-axle
+                            MIL   67116  Roundhou      hook      plastic    28'
+                             WM    2632  Bachmann      Kadee     steel     dual container load
+F bulk-head
+                             SP   23507  Athern        Kadee     plastic       
+                             SP   23507  Athern        Kadee     plastic   no-dup
+H 2-bay
+                             WM   10897  train-Mi      Kadee     plastic   6 cars, same #
+                     CHESSIE/WM   18074  train-Mi      Kadee     plastic       
+                     CHESSIE/WM   18729  train-Mi      Kadee     plastic       
+                     CHESSIE/WM   18036  train-Mi      Kadee     plastic       
+                     CHESSIE/WM   18007  train-Mi      Kadee     plastic       
+                     CHESSIE/WM   17940  train-Mi      Kadee     plastic       
+                            PRR  220346  train-Mi      Kadee     plastic       
+                       PINEY-MT       0  train-Mi                              
+                            B&O  335617  train-Mi      Kadee     plastic       
+H 2-bay
+                            B&O  320835  -             hook      plastic       
+                            B&O  234228  Atlas         Kadee     steel         
+                            B&O    3130  Athern        Kadee     steel         
+                           ERIE  231516  -             Kadee     steel         
+                             LV   14002  Athern        Kadee     plastic       
+                            N&W   40683  Athern        Kadee     steel         
+                            N&W   34806  Athern        Kadee     steel         
+                        CRP/CNJ   67194  Athern        Kadee     steel         
+H 2-bay covered
+                            B&O  830025  Walthers      Kadee     plastic       
+                            B&O  631381  Atlas         Kadee     steel         
+                            B&O  631386  Atlas         Kadee     steel         
+                             BN  424607  Atlas         McHenry   steel         
+                             BN  424615  Atlas         Kadee     steel         
+                            C&O    2213  -             Kadee     plastic   missing hatches
+                            C&O    2364  Walthers      Kadee     plastic       
+                     CHESSIE/WM  604952  Athern        McHenry   steel         
+                     CHESSIE/WM    5518  Bowser        Kadee     steel         
+                     CHESSIE/WM    5901  Atlas         Kadee     steel         
+                     CHESSIE/WM  642753  Athern        Kadee     plastic       
+                        CONRAIL  877045  Atlas         Kadee     steel         
+                        CONRAIL  878365  Bowser        Kadee     steel         
+                        CONRAIL  878342  -             Kadee     steel         
+                           GACX   42397  Atlas         Kadee     plastic       
+                            LNE   18107  Atlas         McHenry   steel         
+                            SOO    6755  Roundhou      Kadee     plastic       
+                             WM  604963  Athern        McHenry   steel         
+                             WM  604982  Athern        McHenry   steel         
+H 3-bay
+                        CSX/C&O   82500  Roundhou      Kadee     plastic       
+                        CSX/C&O   82542  Roundhou      Kadee     plastic       
+                        CSX/C&O   82553  Roundhou      Kadee     plastic       
+                        CSX/C&O   82564  Roundhou      Kadee     plastic       
+                        CSX/C&O   82501  Roundhou      Kadee     plastic       
+                        CSX/C&O   82575  Roundhou      Kadee     plastic       
+                        CSX/C&O  141461  Roundhou      Kadee     plastic       
+                        CSX/C&O  141449  Roundhou      Kadee     plastic       
+                        CSX/C&O  141438  Roundhou      Kadee     plastic       
+                        CSX/C&O  141406  Roundhou      Kadee     plastic       
+                        CSX/C&O  141450  Roundhou      Kadee     plastic       
+                        CSX/C&O  141427  Roundhou      Kadee     plastic       
+H 4-bay
+                            CSX  141948  Bachmann      Kadee     steel         
+H aggragate-car
+                            C&O  450507  Walthers      Kadee     steel         
+                           GVSR  629625  Walthers      Kadee     steel         
+                            FEC   15380  Walthers      McHenry   steel         
+                             NS  150277  Walthers      Kadee     steel         
+                        SP/GVSR  465115  Walthers      Kadee     steel         
+                           WBCX   73030  Walthers      McHenry   steel         
+                           WBCX   73011  Walthers      McHenry   steel         
+                           WBCX   73004  Walthers      McHenry   steel         
+H covered 54'
+                           TP&W   10001  Atlas         Kadee     steel     missing hatch
+                            WAB   33031  Atlas         Kadee     steel     missing 1 truck, 1 hatch, 1 coupler
+H ore-cars
+                            C&O    3423  Roundhou      Kadee     plastic       
+                             CN  114141  Roundhou      Kadee     plastic       
+      DELUTH,MISSABE&IRON-RANGE    1412  Roundhou      Kadee     plastic       
+                             MR   75001  Roundhou      Kadee     plastic       
+                       PINEY-MT       0  Roundhou      Kadee     plastic       
+                       PINEY-MT       0  Roundhou      Kadee     plastic   no-dup
+                            SOO   81714  Roundhou      Kadee     plastic       
+MOW
+                            C&O     618  Athern        Kadee     plastic   crane erie  6-axle
+                            C&O   98404  Lionel        Kadee     ?         crane-tender
+                      TOOL-CAR/       0  -             none      plastic       
+N
+                           ATSF  999228  AHM           none      steel         
+                           ATSF  999628  Bachmann      Kadee     steel         
+                           ATSF  999628  Bachmann      Kadee     plastic   (no dup)
+                            B&O       0  -             none      plastic       
+                            B&O    1769  -             Kadee     plastic       
+                        CHESSIE    3322  -             Kadee     plastic       
+          CHESSIE-SAFETY-FIRST-       0  kp            l         d             
+                    CHESSIE/B&O    3771  Athern        Kadee     plastic       
+                             NP     772  Atlas         Kadee     steel         
+               NYC/HUDSON-RIVER      56  -             Kadee     plastic       
+                            SOO      63  Athern        Kadee     plastic       
+                             SP    1652  Athern        Kadee     plastic       
+R
+                 CENTRAL/ART/UP   91499  -             Kadee     steel         
+               BANGAR&AROOSTOCK    7564  Athern        Kadee     plastic       
+       BLUE-RIBBON-BEEF-PACKING   17511  -             hook      plastic   missing 1 hatch
+                           BREX   74219  Athern        Kadee     plastic       
+                             CN  207902  Athern        Kadee     plastic       
+                     CANADA-DRY    9105  -             hook      plastic       
+                           FGEX   37417  train-Mi      Kadee     plastic   missing 2 hatches
+                 GORRE-DAPHETID     103  -             Kadee     steel         
+                             IC   50300  Athern        Kadee     plastic       
+                            NWX   13304  Athern        Kadee     plastic       
+          OPPENHEIMER-CASING-CO    8003  -             Kadee     plastic       
+                   OSCAR-MEYERS    6885  Athern        Kadee     steel         
+                           SRIX   21043  Athern        Kadee     plastic       
+                         UP/ART   36016  Athern        Kadee     steel         
+                         UP/ART   36016  Athern        Kadee     steel     no-dup
+                            WMX      15  Concor        Kadee     steel     orange 
+S
+                           CN&W    2023  Roundhou      Kadee     plastic       
+                             CP  277083  Athern        McHenry   steel     cattle
+                           MKTY   47150  Mantua        Kadee     plastic       
+                            PRR  135427  Bachmann      Kadee     plastic       
+                             RI   79608  Athern        Kadee     plastic    cow
+T  28'    old-time center-beam
+             ACFX/KAOLIN-THIELE   78041  Intermou      Kadee     steel         
+                   CITY-SERVICE    1554  Roundhou      Kadee     steel         
+                         CONOCO       6  Roundhou      Kadee     steel         
+                           BMOX       8  Roundhou      Kadee     steel         
+                         GRAMPS   11052  Roundhou      Kadee     steel         
+                            PRR     959  Roundhou      Kadee     steel         
+                            PRR  498007  Walthers      Kadee     plastic       
+                            RPX       5  Roundhou      Kadee     steel         
+                             SP    4555  Roundhou      Kadee     steel         
+                             SP   45555  Roundhou      Kadee     steel         
+                            SUN    1100  Roundhou      Kadee     steel         
+                       STANDARD     112  Roundhou      Kadee     steel         
+                       STANDARD     112  Roundhou      Kadee     steel     no-dup
+                            PRR     959  Roundhou      Kadee     steel     no-dup
+                            UTL    1763  Roundhou      Kadee     steel         
+                            UTL    1763  Roundhou      Kadee     steel     no-dup
+                            UTL   17639  Roundhou      Kadee     steel         
+                             UP     323  Roundhou      Kadee     steel         
+                       ZEROLENE      11  Roundhou      Kadee     steel         
+T  26' shorty
+                    AMAIZO/NATX   10852  Walthers      Kadee     steel         
+V
+                            FEC   17021  Bachmann      Kadee     plastic       
+X 36'
+                      APPX/AGAR     255  Varney        Kadee     plastic   wood
+                         CH&DRR    1544  -             Kadee     plastic       
+                          CM&SP   48268  -             Kadee     plastic       
+                          CM&SP   39932  -             Kadee     steel     wood
+                    HORMEL/NADX    1391  -             Kadee     steel         
+                             NP    9001  -             Kadee     plastic   sprung truck
+              TONOPAH&TIDEWATER     105  Roundhou      Kadee     steel     wood
+              TONOPAH&TIDEWATER     105  Roundhou      Kadee     steel     wood
+                PRR/EMPIRE-LINE   76204  -             Kadee     steel     wood
+                PRR/EMPIRE-LINE   76204  -             Kadee     steel     wood   (no dup)
+                PRR/EMPIRE-LINE   76204  -             Kadee     steel     wood   (no dup)
+X 40'
+                            ACY    3247  Athern        Kadee     plastic   steel
+                            ACY    3247  Athern        Kadee     plastic   steel   no-dup
+             ATLATIC&WESTERN-RR    2059  Athern        Kadee     steel     steel
+                           ATSF  145627  Athern        Kadee     plastic   steel
+                           ATSF  129700  Roundhou      Kadee     steel     wood
+                           ATSF  122998  Athern        Kadee     steel     steel load
+                           ATSF   16987  Athern        Kadee     plastic   steel
+                            B&O    1900  -             Kadee     plastic   railway express
+                            B&O    1901  -             Kadee     plastic   railway express
+                            B&O  293647  Accurail      Kadee     plastic       
+                    CHESSIE/C&O   23767  Roundhou      McHenry   steel     steel
+                             CN  501414  Roundhou      none      plastic   steel
+                             CP   21551  Athern        McHenry   plastic       
+       CUMBERLAND&NEW-HAMPSHIRE    3181  Athern        Kadee     steel         
+                          D&RGW   60067  Bachmann      Kadee     plastic       
+                          D&RGW   60358  Athern        none      plastic       
+                           EJ&E   60934  -             McHenry   steel         
+                             EL   73723  Athern        McHenry   steel     steel
+                            FEC   21043  Athern        Kadee     plastic   steel
+                           GM&O   21130  Athern        McHenry   plastic       
+                           GM&O   84237  Athern        Kadee     plastic   steel
+                             GN   27021  Athern        Kadee     plastic   steel
+                             GN   11375  Athern        McHenry   plastic   steel blue
+               GREENBAY&WESTERN    1136  -             Kadee     steel         
+                             GT   51615  Athern        Kadee     plastic   steel
+                            MEC    6036  Athern        Kadee     plastic   steel
+                            N&W   46331  Bowser        Kadee     steel     steel
+                            N&W   54615  -             none      plastic       
+                            N&W   52750  -             Kadee     plastic   missing door
+                             NH   34553  Athern        Kadee     plastic       
+                      PENNSTATE    1855  Athern        Kadee     plastic   steel
+                            PHD    1347  Athern        Kadee     steel         
+                            SOO  177640  Bachmann      Kadee     plastic   steel
+                            SOO  137814  Accurail      Kadee     plastic   steel
+                            SOO  137814  Accurail      Kadee     plastic   steel
+                            SOO   15132  -             Kadee     steel     steel
+                            SOO   15132  -             Kadee     steel     steel
+                            SOO   44643  Bachmann      hook      plastic   steel
+                            SOO   15177  -             Kadee     plastic   steel
+                            SOO    2165  Bachmann      Kadee     plastic   steel
+                             SP  127430  Athern        Kadee     plastic       
+                        SOTHERN  525596  Athern        none      plastic   steel
+                 VTR/VERMONT-RY     169  Athern        Kadee     plastic   steel
+                             WM   25215  Bachmann      McHenry   plastic   steel
+                             WM   25124  Bachmann      McHenry   steel     steel
+                             WM   27012  -             Kadee     steel     steel
+                             WM   27084  -             Kadee     plastic   steel
+                             WM   25198  Bachmann      hook      plastic   steel
+----------------------------------------
